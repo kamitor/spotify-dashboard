@@ -5,8 +5,8 @@ website:
   title: "Spotify Dashboard"
   favicon: images/logo.png
   page-navigation: true
-  site-url: https://melissavanbussel.github.io/spotify-dashboard
-  repo-url: https://github.com/melissavanbussel/spotify-dashboard
+  site-url: https://kamitor.github.io/spotify-dashboard
+  repo-url: https://github.com/kamitor/spotify-dashboard
   repo-actions: [edit, source, issue]
   sidebar:
     title: "Posit 2024 Table Contest"

@@ -1,4 +1,4 @@
-on:
+aon:
   workflow_dispatch:
   push:
     branches: main
